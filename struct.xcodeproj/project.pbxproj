@@ -15,6 +15,7 @@
 		B68D111D260A10B600A45247 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B68D111B260A10B600A45247 /* LaunchScreen.storyboard */; };
 		B68D1128260A10B600A45247 /* structTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68D1127260A10B600A45247 /* structTests.swift */; };
 		B68D1133260A10B600A45247 /* structUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68D1132260A10B600A45247 /* structUITests.swift */; };
+		B68D1141260A131300A45247 /* CharacterCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68D1140260A131300A45247 /* CharacterCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B68D112E260A10B600A45247 /* structUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = structUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B68D1132260A10B600A45247 /* structUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = structUITests.swift; sourceTree = "<group>"; };
 		B68D1134260A10B600A45247 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B68D1140260A131300A45247 /* CharacterCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B68D1110260A10AD00A45247 /* AppDelegate.swift */,
 				B68D1112260A10AD00A45247 /* SceneDelegate.swift */,
 				B68D1114260A10AD00A45247 /* ViewController.swift */,
+				B68D1140260A131300A45247 /* CharacterCard.swift */,
 				B68D1116260A10AD00A45247 /* Main.storyboard */,
 				B68D1119260A10B600A45247 /* Assets.xcassets */,
 				B68D111B260A10B600A45247 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B68D1115260A10AD00A45247 /* ViewController.swift in Sources */,
+				B68D1141260A131300A45247 /* CharacterCard.swift in Sources */,
 				B68D1111260A10AD00A45247 /* AppDelegate.swift in Sources */,
 				B68D1113260A10AD00A45247 /* SceneDelegate.swift in Sources */,
 			);
